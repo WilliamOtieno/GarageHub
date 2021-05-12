@@ -1,0 +1,15 @@
+asgiref==3.3.4
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.2.2
+future==0.18.2
+h2==2.6.2
+hpack==3.0.0
+hyper==0.7.0
+hyperframe==3.2.0
+idna==2.10
+iso8601==0.1.14
+pytz==2021.1
+requests==2.25.1
+sqlparse==0.4.1
+urllib3==1.26.4
