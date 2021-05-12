@@ -85,7 +85,7 @@ def mechanic_appointment_update(request, id):
             saving.save()
             messages.success(request, 'Post Created Successfully.')
             return redirect('http://localhost:8000/mechanic/create_appointment/')
-        appointments {
+        appointments = {
             "query": appointment_list,
             "user_name": user_name,
             "form": form
