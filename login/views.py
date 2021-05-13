@@ -3,6 +3,7 @@ from django.contrib.auth.models import Group
 from django.views.generic import TemplateView
 from django.contrib.auth import logout
 
+
 # Create your views here.
 
 def group_check(request):
