@@ -57,4 +57,4 @@ def appointment_book(request, id):
         messages.success(request, "Appointment Booked Successfully.")
         return redirect('http://localhost:8000/client/')
     else:
-        return redirect('http://localhost:8000/')
+        return redirect('http://localhost:8000/') 
